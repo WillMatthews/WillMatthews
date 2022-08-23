@@ -6,7 +6,6 @@
 - 📫 Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/williamamatthews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httwilliamamatthews" height="30" width="40" /></a>
-<a href="feed://willmatthews.xyz/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="feed://willmatthews.xyz/index.xml" height="30" width="40" /></a>
 </p>
 <p align="center">
 Or visit my blog: <a href="https://willmatthews.xyz" target="blank">willmatthews.xyz</a>
