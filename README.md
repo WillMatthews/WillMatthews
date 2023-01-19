@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my DPhil in Optical Wireless Communication using SiPMs at Oxford University
-- 🌱 I’m currently learning about quantum interconnects
+- 🔭 I’m currently finishing my DPhil in Optical Wireless Communication using SiPMs at Oxford University
+- 🌱 I’m currently reading Financial Calculus by Baxter and Rennie
 - 💬 Get in touch if you think I would be a good fit for your company or have questions about my work
 - 📫 Connect with me:
 <p align="center">
