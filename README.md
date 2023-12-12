@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - 💼 Presently, I work for [Avos Technology ltd](https://avos.io/) as a backend software engineer
-- 🔭 I’m currently finishing my DPhil in Optical Wireless Communication using SiPMs at Oxford University
-- 🌱 I’m currently reading Financial Calculus by Baxter and Rennie
-- 💬 Get in touch if you think I would be a good fit for your company or have questions about my work
+- 🔭 I am writing three(?) more papers.
+- 🌱 I’m researching transformers in my spare time
 - 📫 Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/williamamatthews" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httwilliamamatthews" height="30" width="40" /></a>
