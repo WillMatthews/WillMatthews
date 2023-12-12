@@ -1,5 +1,3 @@
-### Hi there 👋
-
 - 💼 Presently, I work for [Avos Technology ltd](https://avos.io/) as a backend software engineer
 - 🔭 I am writing three(?) more papers.
 - 🌱 I’m researching transformers in my spare time
