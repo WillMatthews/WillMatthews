@@ -1,4 +1,4 @@
-- 💼 Presently, I work for [Avos Technology ltd](https://avos.io/) as a software engineer
+- 💼 Presently, I work for [Avos Technology ltd](https://avos.io/) as a software engineer ([@avos-io](https://github.com/avos-io) [@willavos](https://github.com/willavos))
 - 🔭 I am writing three(?) more papers
 - 🌱 I’m researching / fiddling with ML (with an interest in VAE) in my spare time
 - 📫 Connect with me:
