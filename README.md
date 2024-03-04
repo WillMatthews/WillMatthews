@@ -25,7 +25,4 @@ or visit my blog: <a href="https://willmatthews.xyz" target="blank">willmatthews
 <p><q>By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.</q><br>
 > Eliezer Yudkowsky</p>
 
-<p><q>If we are all going to be destroyed by an atomic bomb, let that bomb when it comes find us doing sensible and human things—praying, working, teaching, reading, listening to music, bathing the children, playing tennis, chatting to our friends over a pint and a game of darts—not huddled together like frightened sheep and thinking about bombs. They may break our bodies (a microbe can do that) but they need not dominate our minds.</q><br>
-> CS Lewis</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willmatthews&label=Profile%20views&color=0e75b6&style=flat" alt="willmatthews" /> </p>
