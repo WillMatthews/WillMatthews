@@ -1,5 +1,5 @@
 - 💼 Presently, I work for [Avos Technology ltd](https://avos.io/) as a software engineer ([@avos-io](https://github.com/avos-io) [@willavos](https://github.com/willavos))
-- 🔭 I am writing three(?) more papers
+- 🔭 I have published [10 papers](https://github.com/WillMatthews/publications) and am writing three(?) more
 - 🌱 I’m researching / fiddling with ML (with a current interest in VAE) in my spare time
 - 📫 Connect with me 
 <a href="https://linkedin.com/in/williamamatthews" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httwilliamamatthews" height="20" width="20" /></a>
