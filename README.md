@@ -22,7 +22,4 @@ or visit my blog: <a href="https://willmatthews.xyz" target="blank">willmatthews
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 </p>
 
-<p><q>By far, the greatest danger of Artificial Intelligence is that people conclude too early that they understand it.</q><br>
-> Eliezer Yudkowsky</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willmatthews&label=Profile%20views&color=0e75b6&style=flat" alt="willmatthews" /> </p>
