@@ -1,10 +1,10 @@
 # Howdy 🤠
 Here's what I'm up to at a glance 😌
-- 💼 Building cool stuff at [Avos Technology ltd](https://avos.io/) as a [software engineer](https://github.com/willavos), where I wrangle LLMs.
+- 💼 Building cool stuff at [Neat.no](https://neat.no/) as a [software engineer](https://github.com/willavos), where I mostly wrangle LLMs.
 - 🔬 Proud owner of a shiny Oxford DPhil where I achieved world-record data rates with Silicon Photomultipliers (fancy light sensors) check out my [13 published papers and theses](https://github.com/WillMatthews/publications).
 - 🌱 When not at work, you'll find me diving into ML research (currently fascinated by VAEs), contributing to OpenStreetMap, or [tinkering](https://github.com/WillMatthews/willmatthews.xyz) with <a href="https://willmatthews.xyz" target="blank">my blog</a>.
 - 🎯 Personal goal: Publishing an ML paper within two years (wish me luck!).
-- 🏃 When AFK: Running, fishing, and sometimes playing squash to balance out the hours behind a screen.
+- 🏃 When AFK: Running, fishing, and sometimes hiking to balance out the hours behind a screen.
 - 📫 Connect with me 
 <a href="https://linkedin.com/in/williamamatthews" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httwilliamamatthews" height="15" width="15" /></a>
 or visit my blog: <a href="https://willmatthews.xyz" target="blank">willmatthews.xyz</a>.
