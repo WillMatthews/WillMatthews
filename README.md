@@ -1,7 +1,7 @@
 # Howdy 🤠
 Here's what I'm up to at a glance 😌
 - 💼 Building cool stuff at [Neat.no](https://neat.no/) as a [software engineer](https://github.com/willavos), where I mostly wrangle LLMs.
-- 🔬 Proud owner of a shiny Oxford DPhil where I achieved world-record data rates with Silicon Photomultipliers (fancy light sensors) check out my [13 published papers and theses](https://github.com/WillMatthews/publications).
+- 🔬 I completed an Oxford DPhil where I achieved world-record data rates with Silicon Photomultipliers (light sensors) check out my [13 published papers and theses](https://github.com/WillMatthews/publications).
 - 🌱 When not at work, you'll find me diving into ML research (currently fascinated by VAEs), contributing to OpenStreetMap, or making the next version of <a href="https://willmatthews.xyz" target="blank">my blog</a>.
 - 🎯 Personal goal: Publishing an ML paper by mid 2027.
 - 🏃 When AFK: Running, reading and sometimes hiking to balance out the hours behind a screen.
