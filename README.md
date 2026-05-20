@@ -1,7 +1,7 @@
 # Howdy 🤠
 Here's what I'm up to at a glance 😌
-- 💼 Building really interesting stuff at [Antare](https://antare.com) as a senior AI engineer where I work on machine vison among other things.
-- 🕰️ Until very recently I used to build cool stuff at [Neat.no](https://neat.no/) as a [software engineer](https://github.com/willavos), where I mostly wrangled LLMs.
+- 💼 Building computer vision and agents at [Antare](https://antare.com) as a senior AI engineer.
+- 🕰️ Formerly worked on Neat Open at [Neat.no](https://neat.no/) as a [software engineer](https://github.com/willavos), where I mostly wrangled LLMs.
 - 🔬 I completed an Oxford DPhil where I achieved world-record data rates with Silicon Photomultipliers (light sensors) check out my [13 published papers and theses](https://github.com/WillMatthews/publications).
 - 🌱 When not at work, you'll find me diving into ML research (currently fascinated by VAEs), contributing to OpenStreetMap, or making the next version of <a href="https://willmatthews.xyz" target="blank">my blog</a>.
 - 🎯 Personal goal: Publishing an ML paper by mid 2027.
